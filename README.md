@@ -1,4 +1,4 @@
-# Doctor's Planet - Hospital Management System
+# HealthCare Pro - Hospital Management System
 
 Doctor's Planet is a comprehensive hospital management system built to streamline the operations of a hospital efficiently. It offers a range of functionalities for patients, doctors, staff, and administrators to manage appointments, treatment schedules, payments, and more.
 
@@ -24,6 +24,9 @@ Doctor's Planet is a comprehensive hospital management system built to streamlin
 - **Payment System**: Seamless payment processing using Stripe Connect.
 
 - **Fully Responsive UI**: User-friendly layout designed to work seamlessly on all devices.
+
+  <img width="316" alt="image" src="https://github.com/VARUNvk1729/HealthCare-Pro/assets/76661061/b25a7cf1-9522-44c3-a05b-0df789e0bfe4">
+
 
 ## Tech Stack
 
@@ -53,6 +56,9 @@ Doctor's Planet is a comprehensive hospital management system built to streamlin
 
 ### Payment Processor
 - Stripe Connect
+
+<img width="429" alt="image" src="https://github.com/VARUNvk1729/HealthCare-Pro/assets/76661061/684d7dc7-5af7-4a5d-b2e8-86532ae05310">
+
 
 ## Installation
 
