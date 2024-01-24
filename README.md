@@ -88,8 +88,8 @@ Doctor's Planet is a comprehensive hospital management system built to streamlin
 
 ## User Credentials
 
-- **Admin:**
-  - Email: admin@gmail.com
+- **Patient:**
+  - Email: patient@gmail.com
   - Password: 1234Aa@
 
 - **Doctor:**
